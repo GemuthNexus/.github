@@ -1,4 +1,4 @@
-# 🌌 GemuthNexus
+# <img src="../logo.svg" width="48" height="48" align="center" /> GemuthNexus
 ### *The Native Web Operating System*
 
 ---
