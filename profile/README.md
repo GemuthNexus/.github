@@ -3,7 +3,7 @@
 
 ---
 
-**GemuthNexus** is a private, high-performance operating system designed to turn any Linux server into a seamless, multi-user desktop environment.
+**GemuthNexus** is a private, high-performance web operating system that extends the Linux kernel's identity model into a seamless, multi-user desktop environment.
 
 [**Documentation Hub**](https://github.com/GemuthNexus/doc) • [**Vision**](https://github.com/GemuthNexus/doc/blob/main/vision/project-overview.md)
 
