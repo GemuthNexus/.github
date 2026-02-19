@@ -1,8 +1,9 @@
 # <img src="../logo.svg" width="48" height="48" align="center" /> GemuthNexus
 
 A self-hosted server management platform with a browser-based desktop interface.
+Full control over your Linux server. **Designed for LAN & VPN deployments.**
 
-[**Documentation**](https://github.com/GemuthNexus/doc) • [**Overview**](https://github.com/GemuthNexus/doc/blob/main/vision/project-overview.md) • [**Description**](https://github.com/GemuthNexus/doc/blob/main/vision/project-description.md) • [**Tech Stack**](https://github.com/GemuthNexus/doc/blob/main/vision/tech-stack.md)
+[**Documentation**](https://github.com/GemuthNexus/doc) • [**Overview**](https://github.com/GemuthNexus/doc/blob/main/architecture/project-overview.md) • [**Description**](https://github.com/GemuthNexus/doc/blob/main/architecture/project-description.md) • [**Tech Stack**](https://github.com/GemuthNexus/doc/blob/main/architecture/tech-stack.md)
 
 ---
 
