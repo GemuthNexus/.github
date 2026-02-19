@@ -1,22 +1,24 @@
 # <img src="../logo.svg" width="48" height="48" align="center" /> GemuthNexus
-### *The Native Web Operating System*
 
----
+A self-hosted server management platform with a browser-based desktop interface.
 
-**GemuthNexus** is a private, high-performance web operating system that extends the Linux kernel's identity model into a seamless, multi-user desktop environment.
-
-[**Documentation Hub**](https://github.com/GemuthNexus/doc) • [**Vision**](https://github.com/GemuthNexus/doc/blob/main/vision/project-overview.md)
+[**Documentation**](https://github.com/GemuthNexus/doc) • [**Overview**](https://github.com/GemuthNexus/doc/blob/main/vision/project-overview.md) • [**Description**](https://github.com/GemuthNexus/doc/blob/main/vision/project-description.md) • [**Tech Stack**](https://github.com/GemuthNexus/doc/blob/main/vision/tech-stack.md)
 
 ---
 
 ## 🧬 Core Philosophy
-We believe the web browser should be a direct extension of your system's kernel. GemuthNexus is built on the principle of **Organic Integration**, ensuring that your digital life on the web is as secure, isolated, and powerful as a native shell session.
+
+We believe that managing your own server should feel as **natural** as using a desktop — without giving up control to third-party platforms. GemuthNexus is built on the principle that the **Linux kernel** already provides everything you need for security, identity, and isolation. The platform's job is to make that power **accessible** through a modern interface — not to replace it.
 
 ### 🛡️ The Pillars
-*   **True Identity** | Your web session *is* your Linux session. Core kernel security, strictly enforced.
-*   **Organic Isolation** | Applications run in their own native processes, protected by the system you trust.
-*   **Human-Centric** | A "Biological OS" that feels alive, responsive, and tailored to the human, not the host.
+
+*   **Native Identity** — Your web session is your Linux session. Users authenticate with real system credentials, and every permission is enforced by the kernel.
+*   **Process Isolation** — Every application runs as a dedicated process under the user's own UID. No shared runtimes, no containers, no trust boundaries to configure.
+*   **Lean & Efficient** — The entire platform idles at ~30 MB RAM. Plugins are spawned on demand and released when idle. No background bloat, no wasted resources.
+*   **Extensibility** — The platform ships with zero built-in apps. Everything is a plugin — installed, updated, and removed independently.
 
 ---
+
+*No external accounts. No third-party cloud. Your server, your users, your rules.*
 
 *Built with ❤️ for the self-hosted future.*
